@@ -42,7 +42,7 @@ int main() {
     return 0;  // Exit successfully
 }
 
-// Function definitions
+
 float add(float a, float b) {
     return a + b;
 }
