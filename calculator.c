@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function declarations
+
 float add(float a, float b);
 float subtract(float a, float b);
 float multiply(float a, float b);
